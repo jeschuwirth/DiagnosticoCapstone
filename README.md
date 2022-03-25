@@ -3,6 +3,6 @@
 
 En el archivo Main.ipynb están definidas todas las funciones.
 
-Para este ejercicio se decidió hacer cada pregunta en una branch distinta, además de pusheo la branch de la P4 antes de la branch de la P3 para provocar un error de mergeo automático.
+Para este ejercicio se decidió hacer cada pregunta en una branch distinta, además se pusheo la branch de la P4 antes de la branch de la P3 para provocar un error de merge automático.
 
-Este merge manual se tuvo que trabajar y pushear, luego revertirlo por ser un merge incorrecto, y por último volver a mergear una vez arreglado.
+Este merge manual se tuvo que trabajar y pushear, luego revertir por ser un merge incorrecto, y por último volver a mergear una vez arreglado.
